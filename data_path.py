@@ -1,0 +1,1 @@
+data_path='/scratch/phys/sin/nian_stm_automation'
